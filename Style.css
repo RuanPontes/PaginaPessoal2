@@ -334,6 +334,7 @@ aside{
     color: #685B5B;
     margin-top: 25px;
     
+    
 } 
 
 
@@ -343,6 +344,8 @@ aside{
     margin-top: 10%;
     text-align: center;
     flex-wrap: wrap;
+    margin-bottom: 10%;
+
 }
 
 
@@ -528,3 +531,11 @@ aside{
     }
 
 }
+.Card .icon {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    margin-top: 10px;
+  }
+  
